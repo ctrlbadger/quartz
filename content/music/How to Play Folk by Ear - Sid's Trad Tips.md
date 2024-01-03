@@ -1,4 +1,4 @@
-Been learning this tune called The Square at Cross McGlenn today. Here's some ways of getting an understanding and learning a tune! This is **my way** of learning **traditional folk tunes** by ear. I hope some of these tips and tricks can help you.
+I've been learning this tune called The Square at Cross McGlenn recently and I thought I'd share my process. Here's my 5 step guide of really understanding a complex tune! This is **my way** of learning **traditional folk tunes** by ear, I hope some of these tips and tricks can help you.
   
 ## Step 1. Listen! 
 You probably want to learn a tune because you've heard somebody else play it and it sounds awesome! Scahill played a version of this tune here ([https://www.youtube.com/watch?v=bnqUmv8COP0&t=75s](https://www.youtube.com/watch?v=bnqUmv8COP0&t=75s)). Making sure you listen to a tune from many **different artists** gives you a better understanding of what you're trying to play. This is honestly the most important step and really understanding the little nuances of a performance can really sell a tune!  
