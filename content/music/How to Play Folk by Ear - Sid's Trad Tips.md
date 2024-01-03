@@ -1,4 +1,3 @@
-#sids-trad-tips #folk
 Been learning this tune called The Square at Cross McGlenn today. Here's some ways of getting an understanding and learning a tune! This is **my way** of learning **traditional folk tunes** by ear. I hope some of these tips and tricks can help you.
   
 ## Step 1. Listen! 
@@ -27,3 +26,5 @@ Now's the important bit! Try playing it without the recording. Going back and re
 I find a really good way of practicing is to record a video of yourself and then watch it back. This does two really important things, first, it feels more like a proper performance and focuses your practice, second while watching it back you can pick up on what aspects of your playing you think you could improve.  
   
 I hope some of these tips will be useful in everyone's folk journeys! Let me know if anyone has any questions!  
+
+#sids-trad-tips #folk
