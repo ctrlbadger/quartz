@@ -3,18 +3,18 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "sid.wifi.creates",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "ctrlbadger.github.io/sid.wifi.creates",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Geologica",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
@@ -30,14 +30,14 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#161617", // page background
+          lightgray: "#d0902b", // borders
+          gray: "#be8e63", // graph links, heavier borders
+          darkgray: "#cecece", // body text
+          dark: "#ebebec", // header text and icons
+          secondary: "#e1723b", // link color, current graph node
+          tertiary: "#c94200", // hover states and visited graph nodes
+          highlight: "#8697a226",
         },
       },
     },
