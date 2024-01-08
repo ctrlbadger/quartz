@@ -14,7 +14,7 @@ export default (() => {
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
-
+    const googleTagString = `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments)} gtag('js', new Date()); gtag('config', 'G-Q28GF1WWK7');`
     return (
       <head>
         <title>{title}</title>
@@ -25,6 +25,8 @@ export default (() => {
         {cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}
         <meta property="og:width" content="1200" />
         <meta property="og:height" content="675" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q28GF1WWK7"></script>
+        <script>{googleTagString}</script>
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />

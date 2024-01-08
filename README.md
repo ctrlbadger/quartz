@@ -1,20 +1,19 @@
-# Quartz v4
+# sid.wifi.creates Quartz Website
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Personal website and blog for projects, articles and other thoughts. Currently hosted using github pages at [https://ctrlbadger.github.io/quartz/](https://ctrlbadger.github.io/quartz/)
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## How was this made?
 
-**If you are looking for Quartz v3, you can find it on the [`hugo` branch](https://github.com/jackyzha0/quartz/tree/hugo).**
+This website is made using the excellent [Quartz](https://github.com/jackyzha0/quartz) project, a static site generator for markdown pages designed for [Obsidian](https://obsidian.md/) notes.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+This wesite is (hopefully) constantly being updated!
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## How I make changes and additions
 
-## Sponsors
+- Inside my Obsidian vault is a symlinked folder pointing to the `content` folder of the repository. This holds all the markdown pages for my website.
+- I've placed a batch script inside a note that runs `npx quartz update`. I run this whenever I've made changes.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Possible Updates
+
+- Fix the date created attributed. Currently displays last sync date on all notes.
+- Add [Folk-Tune-Notes](https://github.com/ctrlbadger/Folk-Tune-Notes) in some way. Create a way of displaying Folk Tunes in `abc` format.
