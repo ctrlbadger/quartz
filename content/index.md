@@ -14,6 +14,7 @@ A published project is a finished project, and this website is about flinging id
 
 ## What have I created!
 Hoping to add more but here's some bits and bobs
-- [[Archive/How to Play Folk by Ear - Sid's Trad Tips]]
+- [[How to Play Folk by Ear - Sid's Trad Tips]]
+- [[reviews/index|Reviews and Impressions List]]
 - [Instagram](https://www.instagram.com/sid.wifi.creates/)
 - [Github](https://github.com/ctrlbadger)
