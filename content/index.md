@@ -16,5 +16,8 @@ A published project is a finished project, and this website is about flinging id
 Hoping to add more but here's some bits and bobs
 - [[How to Play Folk by Ear - Sid's Trad Tips]]
 - [[reviews/index|Reviews and Impressions List]]
+-  [Scrapy Dashboard for Braintree Business Rates Dataset](https://thomasbroadbent.shinyapps.io/Braintree-Business-Rate-Data/)
+- [Goodreads](https://www.goodreads.com/ctrlbadger)
+- [Letterboxd](https://letterboxd.com/Ctrlbadger/)
 - [Instagram](https://www.instagram.com/sid.wifi.creates/)
 - [Github](https://github.com/ctrlbadger)
